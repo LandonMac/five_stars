@@ -1,0 +1,9 @@
+.star {
+    display:block;
+    float: left;
+    width: 200px;
+    height : 200px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
